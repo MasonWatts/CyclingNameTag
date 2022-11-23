@@ -8,7 +8,7 @@ Parts List:
 3. MicroSD card
 3. (Optional) Adafruit Lithium Ion Battery of your choice (I used P/N 3898, 400mAh)
 4. (Optional) 3D printed enclosure (STL file is in repo)
-5. (Optional) Four M3x20 screws, four M3 nut to secure electronics to 3D printed enclosure
+5. (Optional) Four M2x20 screws, four M2 nuts to secure electronics to 3D printed enclosure
 6. (Optional) Chip clip or other scrappy way to connect it to your shirt!
 
 Process:
